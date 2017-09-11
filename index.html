@@ -1,0 +1,47 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <title>MissClick</title>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width">
+        <link href="css/stylesheet.css" type="text/css" rel="stylesheet">
+    </head>
+    <body>
+        <div id = "scoreContainer">
+            <div id = "instructionBanner">
+                <img src = "images/regularup.png">🡲<img src = "images/blinkup.png">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp 
+                <img src = "images/regularright.png">🡲<img src = "images/blinkright.png">
+                <br/>
+                <br/>
+                <br/>
+                <img src = "images/regulardown.png">🡲<img src = "images/blinkdown.png">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+                <img src = "images/regularleft.png">🡲<img src = "images/blinkleft.png">
+            </div> 
+            <div id = "score">
+                &nbsp
+            </div>
+            <div id = "instructionBannerOpposite">
+                <img src = "images/oppositedown.png">🡲<img src = "images/blinkup.png">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp 
+                <img src = "images/oppositeleft.png">🡲<img src = "images/blinkright.png">
+                <br/>
+                <br/>
+                <br/>
+                <img src = "images/oppositeup.png">🡲<img src = "images/blinkdown.png">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+                <img src = "images/oppositeright.png">🡲<img src = "images/blinkleft.png">
+            </div> 
+        </div>
+        <div id = "container">
+            <div id = "top"> 
+                <img id  = "up" src = "images/up.png">
+            </div>
+            <div id = "mid"> 
+                <img id = "left" src = "images/left.png"> <img id = "changeImg" src = "images/blank.png"> <img id = "right" src = "images/right.png">
+            </div>
+            <div id  = "bot"> 
+                <img id = "down" src = "images/down.png">
+            </div> 
+            <button id = "but" onclick = "loadGame()">Press Enter <br/> to Begin</button>
+        </div>
+        <script src="js/main.js"></script>
+    </body>
+</html>

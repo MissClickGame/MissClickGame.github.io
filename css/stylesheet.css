@@ -1,0 +1,77 @@
+div{
+    text-align:center;
+}
+#container{
+    display:table-cell;
+    vertical-align:middle;
+    height:90vh;
+    width:100vw;
+}
+#changeImg{
+    padding:25px;
+    border-radius:90px;
+}
+.loadIn{
+    animation-name:loadInAnimation; 
+    animation-duration:0.5s;
+}
+@keyframes loadInAnimation{
+    0%{
+        background-color:#D3D3D3;
+    }
+    100% {
+        background-color:default;
+    }
+}
+.fadeOut{
+    animation-name:fadeOutAnimation; 
+    animation-duration:2.5s;
+}
+@keyframes fadeOutAnimation{
+    0%{
+        opacity:1;
+    }
+    100% {
+        opacity:0;
+    }
+}
+#mid img{
+    padding-bottom:25px;   
+}
+#scoreContainer{
+    height:5vh;
+    position:relative;
+}
+#scoreContainer img{
+    max-height:6vh;
+    width:auto;
+    height:auto;
+    vertical-align:middle;
+}
+#instructionBanner{
+    position:absolute;
+    color:green;
+}
+#instructionBannerOpposite{
+    position:absolute;
+    right:0px;
+    top:0px;
+    color:green;
+}
+#score{
+    font:bold 3em monospace;
+    color:red;
+}
+button{
+    width:220px;
+    height:80px;
+    left:50%;
+    margin-left:-110px;
+    margin-top:-40px;
+    position:absolute;
+    top:50%;
+    font:bold 2em monospace;
+    color:grey;
+    border-radius:5px;
+    background-color:white;
+}
