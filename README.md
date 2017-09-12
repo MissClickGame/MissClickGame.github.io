@@ -8,11 +8,11 @@ This project was developed with simplicity in mind.  The idea surfaced as I was 
 
 ## MissClick Game
 
-![MissClick Game]()
+![MissClick Game](https://github.com/MissClickGame/MissClickGame.github.io/blob/master/images/game.png)
 
 ## Makey Makey
  
-![Makey Makey Curcuit]()
+![Makey Makey Curcuit](https://github.com/MissClickGame/MissClickGame.github.io/blob/master/images/makeymakey.png)
 
 ## Authors
 
