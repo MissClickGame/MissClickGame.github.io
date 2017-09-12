@@ -8,7 +8,7 @@ The objective of the game is to press the correct input based on the input gener
 Red: Mimic input  
 Green: Reverse input  
 
-Given ![Red Up Direction](https://github.com/MissClickGame/MissClickGame.github.io/blob/master/images/regularup.png) Press ⬆
+Given ![Red Up Direction](https://github.com/MissClickGame/MissClickGame.github.io/blob/master/images/regularup.png) Press ↑
 
 ## MissClick Game
 
