@@ -5,10 +5,25 @@ This project was developed with simplicity in mind.  The idea surfaced as I was 
 ## MissClick Instructions
 
 The objective of the game is to press the correct input based on the input generated in the center.  The are two possible colors that can occur for the generated input in the center.  Each color associates with a logic given by:  
-Red: Mimic input  
-Green: Reverse input  
+### Red: Mimic input    
 
-Given ![Red Up Direction](https://github.com/MissClickGame/MissClickGame.github.io/blob/master/images/regularup.png) Press ↑
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Given ![Red Up Direction](https://github.com/MissClickGame/MissClickGame.github.io/blob/master/images/regularup.png) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Press ![Up Direction](https://github.com/MissClickGame/MissClickGame.github.io/blob/master/images/up.png "Up arrow or W") 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Given ![Red Down Direction](https://github.com/MissClickGame/MissClickGame.github.io/blob/master/images/regulardown.png) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Press ![Down Direction](https://github.com/MissClickGame/MissClickGame.github.io/blob/master/images/down.png "Down arrow or S")
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Given ![Red Right Direction](https://github.com/MissClickGame/MissClickGame.github.io/blob/master/images/regularright.png) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Press ![Right Direction](https://github.com/MissClickGame/MissClickGame.github.io/blob/master/images/right.png "Right arrow or D")  
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Given ![Red Left Direction](https://github.com/MissClickGame/MissClickGame.github.io/blob/master/images/regularleft.png) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Press ![Left Direction](https://github.com/MissClickGame/MissClickGame.github.io/blob/master/images/left.png "Left arrow or A")
+
+### Green: Reverse input
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Given ![Green Up Direction](https://github.com/MissClickGame/MissClickGame.github.io/blob/master/images/oppositedown.png) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Press ![Up Direction](https://github.com/MissClickGame/MissClickGame.github.io/blob/master/images/up.png "Up arrow or W") 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Given ![Green Down Direction](https://github.com/MissClickGame/MissClickGame.github.io/blob/master/images/oppositeup.png) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Press ![Down Direction](https://github.com/MissClickGame/MissClickGame.github.io/blob/master/images/down.png "Down arrow or S")
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Given ![Green Right Direction](https://github.com/MissClickGame/MissClickGame.github.io/blob/master/images/oppositeleft.png) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Press ![Right Direction](https://github.com/MissClickGame/MissClickGame.github.io/blob/master/images/right.png "Right arrow or D")  
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Given ![Green Left Direction](https://github.com/MissClickGame/MissClickGame.github.io/blob/master/images/oppositeright.png) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Press ![Left Direction](https://github.com/MissClickGame/MissClickGame.github.io/blob/master/images/left.png "Left arrow or A")
 
 ## MissClick Game
 
