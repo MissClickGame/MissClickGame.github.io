@@ -1,3 +1,10 @@
+body{
+    background:url(../images/background.jpg)no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
 div{
     text-align:center;
 }
@@ -25,7 +32,7 @@ div{
 }
 .fadeOut{
     animation-name:fadeOutAnimation; 
-    animation-duration:2.5s;
+    animation-duration:1s;
 }
 @keyframes fadeOutAnimation{
     0%{

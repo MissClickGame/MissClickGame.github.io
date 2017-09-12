@@ -42,7 +42,7 @@ function loadNextImg(){
         changeImgELE.src = directionArr[currentSelected%numDirections].opposite;
     setTimeout(function(){
         // timeout to lose
-        //timeOut = setTimeout(loseGame,2500);
+        timeOut = setTimeout(loseGame,1000);
         changeImgELE.setAttribute("class","fadeOut");
         outputELE.innerHTML = "Score: " + score; 
     },300);
