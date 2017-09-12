@@ -4,9 +4,9 @@ This project was developed with simplicity in mind.  The idea surfaced as I was 
 
 ## MissClick Instructions
 
-The objective of the game is to press the correct input based on the input generated in the center.  The are two possible colors that can occur for the generated input in the center.  The color assoicates with a logic given by:
-Red : Mimic input
-Green: Reverse input
+The objective of the game is to press the correct input based on the input generated in the center.  The are two possible colors that can occur for the generated input in the center.  Each color associates with a logic given by:  
+Red: Mimic input  
+Green: Reverse input  
 
 Given ![Red Up Direction](https://github.com/MissClickGame/MissClickGame.github.io/blob/master/images/regularup.png) Press ⬆
 
